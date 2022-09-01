@@ -1,11 +1,10 @@
 # (Dataset Exploration Title)
-## by (your name here)
+## by (Adedoyingit)
 
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
-This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area called '201902-fordgobike-tripdata'.
+> This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area called '201902-fordgobike-tripdata'.
 
 >The data has 183412 individual rides in the dataset with 16 features (duration_sec, start_time, end_time, start_station_id, start_station_name, start_station_latitude, start_station_longitude, end_station_id, end_station_name, end_station_latitude, end_station_longitude, bike_id, user_type, member_birth_year, member_gender, bike_share_for_all_trip). Nine columns are numeric in nature while the variable columns include; start_station_name, end_station_name, member_gender, user_type, bike_share_for_all_trip which are nominal variables.
 > Wrangling Steps
